@@ -1,0 +1,45 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+.container{
+    padding: 40px 0px 0px 40px;
+    font-family:'poppins';
+}
+.navbar-container{
+    border: 20px solid white;
+    display: flex;
+    justify-content: space-between;
+}
+.grow-list{
+    flex: 1;
+    margin-left: 50px;
+}
+.list{
+    display: flex;
+    gap: 40px;
+    color: grey;
+    list-style-type: none;
+}
+.list-item:hover{
+    color: black;
+}
+.nav-button{
+    color: white;
+    background-color: #5955b3;
+    padding: 15px 30px;
+    border-radius: 12px;
+    border: 2px solid white;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-between;
+}
+.heading-text{
+    font-size: 50px;
+    color: 3c2f60;
+}
+span{
+    color: #5955b3;
+}
+.description{
+    color: #838383;
+}

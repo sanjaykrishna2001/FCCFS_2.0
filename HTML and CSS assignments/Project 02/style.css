@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+}
+
+.button-small, .button-large{
+    background-color: rgb(212, 6, 202);
+    color: #ffffff;
+    border: none;
+}
+
+.navbar{
+    display: flex;
+    background-color: #000000;
+    color: #ffffff;
+    height: 80px;
+    align-items: center;
+}
+
+.logo{
+    height: 40px;
+    padding: 0px 70px;
+    border-right: 1px solid #ffffff;
+}
+
+.grow-list{
+    flex:1;
+}
+
+.list{
+    display: flex;
+    list-style-type: none;
+}
+.list-item{
+    padding: 15px;
+}
+
+.grow-list ul li:hover{
+    border: 1px inset #ffffff;
+}
+
+.button-small{
+    padding: 8px 16px;
+    margin-right: 80px;
+    border-radius: 7px;
+}
+
+.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #000000;
+    color: #ffffff;
+    background-image: url(./assets/bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.hero-heading{
+    text-align: center;
+    font-size: 65px;
+    inline-size: 800px;
+}
+
+.hero-description{
+    font-size: 24px;
+}
+
+.button-large{
+    margin-top: 34px;
+    padding: 16px 30px;
+    font-size: 24px;
+    border-radius: 11px;
+}
+
+
