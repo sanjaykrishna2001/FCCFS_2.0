@@ -1,1 +1,1 @@
-[link to hash node](https://sanjaykrishnam.hashnode.devshort-blog-on-web)
+[link to hash node](https://sanjaykrishnam.hashnode.dev/short-blog-on-web)
