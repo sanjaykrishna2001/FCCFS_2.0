@@ -6,7 +6,7 @@
 
 ### Output
 
-![Project 1](./Project%201/output.png)
+[Project 1](https://glittery-cranachan-966007.netlify.app/)
 
 - Create HTML and CSS again.
 
@@ -16,7 +16,7 @@
 
 ### Output
 
-![Project 2](./Project%202/output.png)
+[Project 2](https://thriving-puffpuff-555891.netlify.app/)
 
 - Create HTML and CSS again.
 
@@ -26,14 +26,15 @@
 
 ### Output
 
-![Project 1](./Project%203/Output.png)
+[Project 3](https://rad-pudding-79eb71.netlify.app/)
 
-- Create HTML and CSS again.
+
+
+
 
 # Sunday
-
-## Tailwind Project
-
+## Tailwind Project (pending)
+(this is pending)
 ## Make Clone of Visual Studio Code Website
 
 ## [Reference Link](https://code.visualstudio.com/)
