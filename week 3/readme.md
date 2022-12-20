@@ -24,6 +24,5 @@
 ### Output
 
 
-pending
-[Project 3](https://celadon-hotteok-63e8a0.netlify.app/)
+[Project 3](https://steady-praline-94f4bd.netlify.app/)
 
